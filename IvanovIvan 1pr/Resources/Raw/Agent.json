@@ -1,0 +1,38 @@
+﻿[
+  {
+
+    "id": 1,
+    "Name": "Tourism Specialist",
+    "Description": "A specialist in tourism provides travel services, works in travel agencies, hotels",
+    "nationality": "italian",
+    "image": "x_b6b6f8df.jpg"
+  },
+  {
+    "id": 2,
+    "Name": "tourism managert",
+    "Description": "a specialist who ensures the implementation of the entire complex of measures for the organization and provision of tourist trips to the client",
+    "nationality": "mexica",
+    "image": "382df85527065903c8582ce5b40c1c78.jpg"
+  }
+  {
+    "id": 3,
+    "Name": "Booking Agent",
+    "Description": "personal responsibilities. Carries out work with Russian and foreign organizations",
+    "nationality": "mexica",
+    "image": "1593531741_81397836_158623672110867_4158328593054953414_n.jpg"
+  },
+  {
+    "id": 4,
+    "Name": "cashier",
+    "Description": "an employee who receives, stores and records cash.",
+    "nationality": "mexica",
+    "image": "x_b6b6f8df.jpg"
+  },
+  {
+    "id": 5,
+    "Name": "Couriert",
+    "Description": "a person (messenger) working in an institution, delivering business papers or a company",
+    "nationality": "mexica",
+    "image": "big-baby-tape.jpg"
+  }
+]
